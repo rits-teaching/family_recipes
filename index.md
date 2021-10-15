@@ -6,4 +6,5 @@ Set of recipes as given by my grandma
   - [base](pizzas/base.md)
   - [margarita](pizzas/margarita.md)
 - Sauces (TODO)
+  - [soy sause](sauces/soy.md)
 - Spreds (TODO)
